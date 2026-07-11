@@ -1,4 +1,4 @@
-# 🏦 Terminal Banking System
+# Terminal Banking System
 
 A simple, dependency-free **command-line banking system** built with Python and SQLite. 
 It lets users create accounts, deposit and withdraw funds, check balances, view transaction 
