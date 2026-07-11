@@ -21,7 +21,3 @@ history, and manage accounts — all persisted to a local SQLite database.
 
 
 No `pip install` needed — everything uses Python's built-in libraries.
-
-## Usage
-
-Run the script and follow the on-screen menu:
